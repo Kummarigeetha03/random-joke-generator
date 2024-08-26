@@ -44,7 +44,7 @@ Random Joke Generator is a web application developed using Streamlit. The applic
 <ol>
     <li><b>Clone the Repository:</b>
     <p>
-        git clone https://github.com/kummarigeetha03/random-joke-generator.git<br>
+        git clone https://github.com/Kummarigeetha03/random-joke-generator<br>
         cd random-joke-generator
     </p>
     </li>
