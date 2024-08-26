@@ -59,13 +59,13 @@ Random Joke Generator is a web application developed using Streamlit. The applic
 <p>
 1. <b>Start the Development Server:</b>
 <br>
-streamlit run app.py<br>
+streamlit run random_joke_app.py<br>
 Navigate to `http://localhost:8501/` in your browser. The application will automatically reload if you make changes to the source files.
 </p>
 
 <h3>Code Scaffolding</h3>
 <p>
-To add new features, modify the `random-joke-app.py` file and utilize the wide range of components provided by Streamlit.
+To add new features, modify the `random_joke_app.py` file and utilize the wide range of components provided by Streamlit.
 </p>
 
 <h3>Building the Application</h3>
