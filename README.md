@@ -68,6 +68,9 @@ Navigate to `http://localhost:8501/` in your browser. The application will autom
 To add new features, modify the `random_joke_app.py` file and utilize the wide range of components provided by Streamlit.
 </p>
 
+<h3> Deployed link </h3>
+<a href="https://random-joke-generator-ayu45rlmlpesvvo6dzt46o.streamlit.app/"></a>
+
 <h3>Building the Application</h3>
 <p>
 Streamlit does not require a traditional build process; simply running the Streamlit server will allow users to interact with the application.
