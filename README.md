@@ -69,7 +69,10 @@ To add new features, modify the `random_joke_app.py` file and utilize the wide r
 </p>
 
 <h3> Deployed link </h3>
-<a href="https://random-joke-generator-ayu45rlmlpesvvo6dzt46o.streamlit.app/"></a>
+<ul>
+    <li><a href="https://random-joke-generator-ayu45rlmlpesvvo6dzt46o.streamlit.app/">streamlit link</a></li>
+</ul>
+
 
 <h3>Building the Application</h3>
 <p>
